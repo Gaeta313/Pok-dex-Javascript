@@ -1,0 +1,23 @@
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.navBtn{
+    position:sticky;
+    top: 0px;
+    z-index: 100;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image: url("/img/580671-sfondo-colorato-sfumato-gratuito-vettoriale.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
